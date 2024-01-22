@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49bc0f63-a263-4580-bcc0-0d312d64edad" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OperasiMatemtika.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OperasiMatemtika.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TipeArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TipeArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TipeDataNonPrimtif.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TipeDataNonPrimtif.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Variabel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Variabel.java" afterDir="false" />
-    </list>
+    <list default="true" id="49bc0f63-a263-4580-bcc0-0d312d64edad" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,8 +34,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Block.executor": "Run",
+    "Application.Expression.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.OperasiMatemtika.executor": "Run",
+    "Application.Statement.executor": "Run",
     "Application.TipeArray.executor": "Run",
     "Application.TipeDataNonPrimtif.executor": "Run",
     "Application.TipeNumber.executor": "Run",
@@ -91,6 +88,7 @@
       <updated>1704553897585</updated>
       <workItem from="1704553898427" duration="5841000" />
       <workItem from="1704613439463" duration="5236000" />
+      <workItem from="1705935985787" duration="2315000" />
     </task>
     <servers />
   </component>
